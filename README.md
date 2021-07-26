@@ -1,8 +1,8 @@
 # simple-discord-together-bot
 ## Requirements:
-1.Nodejs>=14
-2.Git
-3. a Discord bot token
+1. Nodejs>=14
+2. Git
+3.  a Discord bot token
 ## Installing:
 ```
 https://github.com/Hiyoriii/simple-discord-together-bot.git
