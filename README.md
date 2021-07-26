@@ -1,4 +1,6 @@
 # simple-discord-together-bot
+## Warning:
+If you are using BetterDiscord, please disable AutoStartRichPresence(if you have) because that plugin might cause some bugs
 ## Requirements:
 1. Nodejs>=14
 2. Git
