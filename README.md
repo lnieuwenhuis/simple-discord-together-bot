@@ -8,5 +8,5 @@
 https://github.com/Hiyoriii/simple-discord-together-bot.git
 npm i
 ```
-Change the bot token in `config.json` and then `npm start`
+Change the bot token in `config.json` and then `npm start`.
 Your bot are good to go!
