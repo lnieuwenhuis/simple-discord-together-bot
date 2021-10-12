@@ -2,7 +2,7 @@
 ## Warning:
 If you are using BetterDiscord, please disable AutoStartRichPresence(if you have) because that plugin might cause some bugs
 ## Requirements:
-1. Nodejs>=14
+1. Nodejs>=16
 2. Git
 3.  a Discord bot token
 ## Installing:
