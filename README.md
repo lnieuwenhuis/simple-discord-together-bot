@@ -7,7 +7,7 @@ If you are using BetterDiscord, please disable AutoStartRichPresence(if you have
 3.  a Discord bot token
 ## Installing:
 ```
-https://github.com/Hiyoriii/simple-discord-together-bot.git
+https://github.com/Hellsnakes/simple-discord-together-bot.git
 npm i
 ```
 Change the bot token in `config.json` and then `npm start`.
