@@ -5,7 +5,7 @@ const { DiscordTogether } = require('discord-together');
 
 client.once('ready', () => {
     console.log('Bot is online!');
-    client.user.setActivity(`${config.prefix}help`);
+    client.user.setActivity(`with ur mom`);
 });
 
 client.discordTogether = new DiscordTogether(client);
